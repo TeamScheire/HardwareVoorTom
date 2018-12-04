@@ -4,7 +4,7 @@ Hardware hack om een draadloze microfoon te bedienen met een grote knop in een h
 
 ![heuptas](images/tom-met-heuptas.jpg)
 
-De hele set-up gaat er voor zorgen dat je op een smartphone een externe micro én een luidspreker kan aansluiten via de koptelefoon ingang. _Voor de nieuwere iphones heb je het [adaptor tussenstuk](https://www.apple.com/be-nl/shop/product/MMX62ZM/A/lightning-naar-35%E2%80%91mm-koptelefoonaansluiting-adapter) nodig)_
+De hele set-up gaat er voor zorgen dat je op een smartphone een externe micro én een luidspreker kan aansluiten via de koptelefoon ingang. _Voor de nieuwere iphones heb je het [adaptor tussenstuk](https://www.apple.com/be-nl/shop/product/MMX62ZM/A/lightning-naar-35%E2%80%91mm-koptelefoonaansluiting-adapter) nodig._
 
 ## Beetje achtergrondinformatie over jacks
 
